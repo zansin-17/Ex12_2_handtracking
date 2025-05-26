@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Ex12_2.sln"
+    "dotnet.defaultSolution": "Ex12_2_handtracking.sln"
 }
